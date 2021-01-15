@@ -1,0 +1,9 @@
+{
+  "id": 14103367,
+  "created_at": "2021-01-15T15:35:36.000Z",
+  "repository_selection": "all",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  }
+}
